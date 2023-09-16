@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-16T03:45:37.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="S_2eFJiwUAEaOw23oPGb" version="21.7.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-09-16T03:46:16.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="WO6XPbnT3HUBcKgO6Buz" version="21.7.5" type="github" pages="9">
   <diagram name="Relação de entidade" id="4bryAl74sK6jyIMClvUG">
     <mxGraphModel dx="4897" dy="2480" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -625,7 +625,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9xFtU4MiJ4q7Ef36rbYL-76" value="&lt;p style=&quot;margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm&quot;&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;apple-tab-span&quot;&gt;&lt;span style=&quot;font-size:11.0pt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;&lt;br/&gt;color:black&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11pt; font-family: Calibri, sans-serif;&quot;&gt;FEE =&lt;/span&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 11pt; background-color: initial;&quot;&gt;((Score do Ciclo de Entrega 1 (C1) * Peso de C1) + ... + (Score do Ciclo de&lt;/span&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 11pt; background-color: initial;&quot;&gt;Entrega N (CN) * Peso de CN)) / Soma dos Pesos de C&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="390" width="700" height="130" as="geometry" />
+          <mxGeometry x="530" y="390" width="700" height="130" as="geometry" />
         </mxCell>
         <mxCell id="9xFtU4MiJ4q7Ef36rbYL-77" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9xFtU4MiJ4q7Ef36rbYL-76" target="9xFtU4MiJ4q7Ef36rbYL-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
