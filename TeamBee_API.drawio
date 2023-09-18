@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-17T22:34:23.192Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="CUxc9WdLT1CelJZBxeYt" version="21.7.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-09-18T01:30:20.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dRVJTbfe3xGcEIZtjoc0" version="21.7.5" type="github" pages="9">
   <diagram name="Relação de entidade" id="4bryAl74sK6jyIMClvUG">
-    <mxGraphModel dx="5200" dy="1430" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4211" dy="1280" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1kDiCk8ZAaIlWUT4rNJP" name="Banco de dados">
-    <mxGraphModel dx="4238" dy="2080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2021" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -652,8 +652,8 @@
         <mxCell id="NU75qH9ANXF5_mT1k-aO-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="NU75qH9ANXF5_mT1k-aO-18" vertex="1">
           <mxGeometry width="220" height="311.35135135135135" as="geometry" />
         </mxCell>
-        <mxCell id="NU75qH9ANXF5_mT1k-aO-20" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;[&lt;/div&gt;&lt;div&gt;&amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;id&quot;: 1,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;nome_aluno&quot;: &quot;João&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;id&quot;: 2,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;nome_aluno&quot;: &quot;Maria&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;]&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="NU75qH9ANXF5_mT1k-aO-18" vertex="1">
-          <mxGeometry x="20" y="45.00405405405405" width="160" height="170" as="geometry" />
+        <mxCell id="NU75qH9ANXF5_mT1k-aO-20" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;[&lt;/div&gt;&lt;div&gt;&amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;id&quot;: 1,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;nome_aluno&quot;: &quot;João&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;turmas&quot;: [&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; }]&lt;/div&gt;&lt;div&gt;&amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;id&quot;: 2,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;nome_aluno&quot;: &quot;Maria&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; }&lt;/div&gt;&lt;div&gt;]&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="NU75qH9ANXF5_mT1k-aO-18" vertex="1">
+          <mxGeometry x="20" y="25.004054054054052" width="160" height="210" as="geometry" />
         </mxCell>
         <mxCell id="NU75qH9ANXF5_mT1k-aO-21" value="Alunos.json" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="NU75qH9ANXF5_mT1k-aO-18" vertex="1">
           <mxGeometry x="50" width="90" height="30" as="geometry" />
@@ -744,11 +744,14 @@
         <mxCell id="aTKpny6Vx2rYMi0bS9P5-4" value="Professores.json" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="aTKpny6Vx2rYMi0bS9P5-1" vertex="1">
           <mxGeometry x="50.76923076923077" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="hB7ctBOyEWpyZWvaMNa0-1" value="Controlar nome das turmas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="1169" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="dMCv16Mo4Fk2-Q2k5wb-" name="Fluxograma">
-    <mxGraphModel dx="4639" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5065" dy="2080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -876,7 +879,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xOMKYANFXWa0V_fk3TnD" name="Detalhe das telas">
-    <mxGraphModel dx="1280" dy="446" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1594" dy="728" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -890,7 +893,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="z4QMLMGh7A5JWdaVsksM" name="Main">
-    <mxGraphModel dx="1280" dy="846" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3385" dy="2220" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -934,7 +937,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eFTypMpZcxnfHUl83Djg" name="Tela Cursos">
-    <mxGraphModel dx="6776" dy="3712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4388" dy="2256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1142,8 +1145,8 @@
         <mxCell id="BeXycVneNLlM2zAYnOg7-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;" parent="BeXycVneNLlM2zAYnOg7-31" vertex="1">
           <mxGeometry width="516.6101694915254" height="212.14285714285714" as="geometry" />
         </mxCell>
-        <mxCell id="BeXycVneNLlM2zAYnOg7-33" value="&lt;div style=&quot;font-size: 35px;&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Curso: Banco de dados&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 35px;&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Professor: Nadalinha&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 35px;&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Turmas: 2&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=5;spacingLeft=6;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;" parent="BeXycVneNLlM2zAYnOg7-31" vertex="1">
-          <mxGeometry x="64.30969864657186" y="40.00347826086954" width="390" height="140" as="geometry" />
+        <mxCell id="BeXycVneNLlM2zAYnOg7-33" value="&lt;div style=&quot;font-size: 35px;&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Curso: ADS&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 35px;&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Professor: Nadalinha&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 35px;&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot;&gt;Turmas: 2&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=5;spacingLeft=6;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;" parent="BeXycVneNLlM2zAYnOg7-31" vertex="1">
+          <mxGeometry x="64.30969864657186" y="40.00347826086954" width="370" height="140" as="geometry" />
         </mxCell>
         <mxCell id="BeXycVneNLlM2zAYnOg7-34" value="" style="group;fontFamily=Comic Sans MS;sketch=1;curveFitting=1;jiggle=2;" parent="BeXycVneNLlM2zAYnOg7-3" vertex="1" connectable="0">
           <mxGeometry x="725.0003013534281" y="448" width="516.6101694915255" height="212.1428571428571" as="geometry" />
